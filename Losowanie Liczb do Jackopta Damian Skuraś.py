@@ -33,4 +33,4 @@ while gramy == "tak":
 while gramy == "nie":
     print ("Dziękuje i dowidzenia")
     sys.pause
-#--
+#---
