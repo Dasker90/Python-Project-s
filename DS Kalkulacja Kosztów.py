@@ -44,7 +44,7 @@ lista =(random.randint(49,111)) #Predkosc przez trase w terenie zabudowanym 49-5
 #S = Odl1
 #T = none
 #V = lista |-
-# ---------------------------------------------
+# -------------------------------------------------
 T=[Odl1/lista]
 print("---------------------------------------------")
 print("Trwa kalkulacja.Prosze czekac !")
@@ -82,4 +82,4 @@ sys.exit()
 # ad.2 Trasa Sieradz -> Zgorzelec.
 # - Trasa 1: Sieradz -> S8 -> A8 -> A4. (~320 km).
 # ---------------------------------------------
-----
+-----
