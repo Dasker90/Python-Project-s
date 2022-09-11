@@ -1,4 +1,4 @@
-#sposób łatwy---
+#sposób łatwy----
 import random
 print("-----------------------------")
 print("Damian Skuras")
