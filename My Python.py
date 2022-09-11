@@ -21,7 +21,7 @@ print("------------------------")
 input("Press Enter to continue...")
 #--
 import calendar
-#-
+#--
 cal = calendar.month(2022, 1)
 print ("Here is the calendar:")
 print (cal)
