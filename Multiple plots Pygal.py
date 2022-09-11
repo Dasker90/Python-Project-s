@@ -14,3 +14,4 @@ chart.add('Squares',squares)
 chart.add('Cubes',cubes)
 chart.render_to_file('Squares_cubes.svg')
 chart = pygal.Line(fill=True, zero=0)
+#-
