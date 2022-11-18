@@ -21,4 +21,4 @@ print("|--------------------------|")
 input("Aby zakonczyc nacisnij klaiwsz enter:")
 time.sleep(3)
 sys.exit()
-#---
+#----
