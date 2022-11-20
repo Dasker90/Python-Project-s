@@ -27,7 +27,7 @@ newPassword = []
 for x in range(passwordLength):
     ### Append a random character to the password string
     newPassword.append(random.choice(characters))
-
+#-----------------------------------------------------------------------------------------------------
 ### Join the whole list back into a string
 finalPassword = ''.join(map(str, newPassword))
 time.sleep(2)
