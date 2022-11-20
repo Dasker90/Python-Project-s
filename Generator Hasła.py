@@ -4,6 +4,7 @@ print("-----------------------------")
 print("Damian Skuras")
 print("Informatyka III Rok | Technologie Programowania")
 print("Nr:142873")
+#--
 s = 'ABCDEFGHIJKLMNOPRSTUWXYZabcdefghijklmnoprstuwxyz1234567890!@#'
 dlugosc_hasla = 8
 haslo = ["".join(random.sample(s,dlugosc_hasla))]
