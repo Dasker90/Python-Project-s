@@ -16,7 +16,7 @@ if haslo=='qweas':
     print("Zalogowales sie poprawnie !")
     print("---------------------------------------------")
     time.sleep(3)
-#--
+#---
     else:
     print("Bledne Haslo!")
     time.sleep(3)
