@@ -3,7 +3,7 @@ import datetime
 import sys
 import random
 from random import randint
-#-
+#--
 print("---------------------------------------------")
 print("Mateusz Markun | Informatyka III Rok")
 print("Zaawansowane Technologie Programowania | Projekt ")
