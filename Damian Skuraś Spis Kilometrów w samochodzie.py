@@ -5,7 +5,7 @@ print("Nr.Alb: 142873")
 print("Wydział Informatyki")
 print("Uczelnia: A.H.E Łódz")
 print("-------------------")
-#---
+#----
 print("Program do spisu kilometrów w twoim samochodzie V0.1")
 spisy = []
 choice = None
