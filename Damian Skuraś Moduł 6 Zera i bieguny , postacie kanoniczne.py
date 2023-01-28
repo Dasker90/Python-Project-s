@@ -2,7 +2,7 @@ import time
 import math
 import sys
 import numpy as np
-# --- Biblioteki
+# --- Biblioteki-
 print("--------------------------------")
 print("Damian Skuraś")
 print("Informatyka III rok | VI Semestr")
