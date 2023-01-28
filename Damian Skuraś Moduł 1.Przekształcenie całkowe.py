@@ -5,7 +5,7 @@ from sympy.abc import s,t,x,y,z
 import numpy as np
 from sympy.integrals import inverse_laplace_transform
 import matplotlib.pyplot as plt
-#-----
+#------
 print("|-------------------------------------------------------------|")
 print("| Damian Skuras |---------------------------------------------|")
 print("| Informatyka III rok | VI Semestr |--------------------------|")
